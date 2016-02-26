@@ -1,4 +1,4 @@
-Symbitcoin ("Symbiotic" + "bitcoin"): Bitcoin client with new symbiotic protocol rules riding on top of the existing bitcoin protocol which allow symbitcoin users to create new currencies which have a price target. 
+Symbitcoin ("Symbiotic" + "bitcoin"): Bitcoin client with new symbiotic protocol rules riding on top of the existing bitcoin protocol to allow symbitcoin users to create new currencies which have a price target. 
 
 For example, expect to see new distributed currencies which are pegged to the U.S. Dollar, the price of oil, gold, and eventually every possible currency, stock, and commodity.
 
